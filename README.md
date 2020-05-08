@@ -6,9 +6,10 @@ Create user friendly tool to automate the process of version control for high pr
 
 Process: 
 Convert input file type to LaTeX and fully automate version control with git/github. 
+Also Possible: Convert DocX to HTML. 
 
 
 Technologies in play: 
 Python 
 Github API 
-LaTeX 
+LaTeX/HTML
